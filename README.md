@@ -11,7 +11,7 @@ Exp01 (b): Console: ![image](https://github.com/mukulkant-mikemighty/EmbeddedPro
 Diagram: ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/27c8b4d5-f474-436f-95e8-1fea2fdccce9)
 Dashboard Screenshots:
 ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/2f016591-c21e-4580-9981-56a4f45494dd)
-![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/aa33abf1-c5ad-4bc2-b255-4f3b76db88d9)
+![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/3327c4b5-0e27-4c67-bbcf-c4dd4697857e)
 ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/5d2b1941-c3ec-49da-a2c0-9d3059d312e9)
 ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/b1f975cf-4cb3-42e0-9d4e-ec52cf3477a8)
 ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/ede2e447-e4c7-4d1f-9c66-e067d936144a)
