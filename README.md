@@ -32,5 +32,4 @@ Dashboard Screenshot:
 ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/8c185e11-8b9f-4229-81b5-8fe14d8affc5)
 
 5. Exp02 with Reverse Control from Dashboard (Incomplete)
-
-6.Others: Code for getting Mac Address of the board.
+6. Others: Code for getting Mac Address of the board.
