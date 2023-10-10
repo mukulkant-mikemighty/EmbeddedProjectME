@@ -33,5 +33,4 @@ Dashboard Screenshot:
 
 5. Exp02 with Reverse Control from Dashboard (Incomplete)
 
-6.Others:
-Code for getting Mac Address of the board.
+6.Others: Code for getting Mac Address of the board.
