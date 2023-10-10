@@ -18,8 +18,8 @@ Dashboard Screenshots:
 ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/5407cfaf-a050-4cff-bc36-4958069573be)
 
 Consoles: 
-           Sender's Console: ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/4b736d81-9574-45fa-b866-0ee3cac19bae)
-           Receiver's Console: ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/4fd30c86-ef38-4997-a4a9-6e503c364067)
+Sender's Console: ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/4b736d81-9574-45fa-b866-0ee3cac19bae)
+Receiver's Console: ![image](https://github.com/mukulkant-mikemighty/EmbeddedProjectME/assets/54433438/4fd30c86-ef38-4997-a4a9-6e503c364067)
  
 3. Master-Slave Communication Demonstration between two ESP32s with RFID tag ID transmission from Tx to Rx (Step 1 of IoT project)
 
